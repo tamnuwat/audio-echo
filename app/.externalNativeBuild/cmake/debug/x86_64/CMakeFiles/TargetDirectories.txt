@@ -1,0 +1,3 @@
+C:/Users/Sujin/Downloads/android-ndk-master/android-ndk-master/audio-echo/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/echo.dir
+C:/Users/Sujin/Downloads/android-ndk-master/android-ndk-master/audio-echo/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Sujin/Downloads/android-ndk-master/android-ndk-master/audio-echo/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir

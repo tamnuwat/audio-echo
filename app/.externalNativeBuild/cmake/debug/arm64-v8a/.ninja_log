@@ -1,0 +1,8 @@
+# ninja log v5
+25	470	0	CMakeFiles/echo.dir/audio_common.cpp.o	8882b25b838b0e56
+2	475	0	CMakeFiles/echo.dir/audio_effect.cpp.o	dd5737fead33f338
+21	483	0	CMakeFiles/echo.dir/audio_recorder.cpp.o	326360c985ee37eb
+14	499	0	CMakeFiles/echo.dir/audio_player.cpp.o	c513735dc4bf6637
+8	501	0	CMakeFiles/echo.dir/debug_utils.cpp.o	4df86d665f4c5602
+30	533	0	CMakeFiles/echo.dir/audio_main.cpp.o	387da8b4aefafa99
+533	798	0	C:/Users/Sujin/Downloads/android-ndk-master/android-ndk-master/audio-echo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	34e3047113900810

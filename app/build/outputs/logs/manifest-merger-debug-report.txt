@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0c3e07e5323fb1d9a696f8b7fe97fe7c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17f2dd1628ffc24ca65fffc159010593\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c5e936338bfe250248a0bac5aa45e56b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\dfbc10b92437e93924d7b461a6320426\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\d40612a097c6a6ecb9894b5ea4ff2f9f\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\62d4cf93e7a76cfd3c74de709b087fb3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f5495c19d4407e3606f2c36a60998e28\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\55deb279c1b7d5016ba1b1369dff6b06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\00cf5a0f9f3fca3f4416cd4ec345b3b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\d8e356e4b01970d23a51d548a48bb5c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\99efafc6edebe4132f9deb621fc49a17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\0bca7a3bd5202cd93c574b32d4b4c292\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\28f568d87d8da74e0d6a9255ab0f8a58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\b12a5d40732d944fd018e9770c6c31ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a3d34c63be13448d864b5b2d6c71ed70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e995821f458a6fb40ecd1fa4097528dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\961058725fb8968baa4ec9913f5d3a75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e322eb00111465472cd34667b7d7e84d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b0d718f843778470e17ce4e873ab8e9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\73afbbdf2c2db92463730b7f98b1cb6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4a6597c043e3e1fff91b79bbed3d6822\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c1f44275bb7cd540dbfee41266db0ec6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b756c503d908df152b9da387fc9ac89e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e50e9472bc2aa1d8e3380b2975c662e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f78076217e638a814e5d910896832f25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d4af6bd28da1d37456736e9698dacf80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\66d39f913744bb096bf37911a312664d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5ec92853126b4fa1c547ac2dba7efe1d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7c83e62de85d0457dba930dd484592ad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7dd7e9e9da60ab777b9436d4e64008f1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e50711be106e6223b243a2624ed16182\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6daa5dbe06fda77de1d89aa35ade6c40\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:6:22-77
+application
+ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0c3e07e5323fb1d9a696f8b7fe97fe7c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0c3e07e5323fb1d9a696f8b7fe97fe7c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c5e936338bfe250248a0bac5aa45e56b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c5e936338bfe250248a0bac5aa45e56b\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\62d4cf93e7a76cfd3c74de709b087fb3\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\62d4cf93e7a76cfd3c74de709b087fb3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4a6597c043e3e1fff91b79bbed3d6822\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4a6597c043e3e1fff91b79bbed3d6822\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c1f44275bb7cd540dbfee41266db0ec6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c1f44275bb7cd540dbfee41266db0ec6\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4a6597c043e3e1fff91b79bbed3d6822\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:10:9-42
+	android:icon
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:9:9-36
+	android:theme
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.google.sample.echo.MainActivity
+ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.google.sample.echo.activity_list_profile
+ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:25:9-68
+	android:name
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml:25:19-56
+uses-sdk
+INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0c3e07e5323fb1d9a696f8b7fe97fe7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0c3e07e5323fb1d9a696f8b7fe97fe7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17f2dd1628ffc24ca65fffc159010593\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17f2dd1628ffc24ca65fffc159010593\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c5e936338bfe250248a0bac5aa45e56b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c5e936338bfe250248a0bac5aa45e56b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\dfbc10b92437e93924d7b461a6320426\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\dfbc10b92437e93924d7b461a6320426\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\d40612a097c6a6ecb9894b5ea4ff2f9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\d40612a097c6a6ecb9894b5ea4ff2f9f\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\62d4cf93e7a76cfd3c74de709b087fb3\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\62d4cf93e7a76cfd3c74de709b087fb3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f5495c19d4407e3606f2c36a60998e28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f5495c19d4407e3606f2c36a60998e28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\55deb279c1b7d5016ba1b1369dff6b06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\55deb279c1b7d5016ba1b1369dff6b06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\00cf5a0f9f3fca3f4416cd4ec345b3b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\00cf5a0f9f3fca3f4416cd4ec345b3b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\d8e356e4b01970d23a51d548a48bb5c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\d8e356e4b01970d23a51d548a48bb5c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\99efafc6edebe4132f9deb621fc49a17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\99efafc6edebe4132f9deb621fc49a17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\0bca7a3bd5202cd93c574b32d4b4c292\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\0bca7a3bd5202cd93c574b32d4b4c292\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\28f568d87d8da74e0d6a9255ab0f8a58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\28f568d87d8da74e0d6a9255ab0f8a58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\b12a5d40732d944fd018e9770c6c31ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\b12a5d40732d944fd018e9770c6c31ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a3d34c63be13448d864b5b2d6c71ed70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a3d34c63be13448d864b5b2d6c71ed70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e995821f458a6fb40ecd1fa4097528dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e995821f458a6fb40ecd1fa4097528dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\961058725fb8968baa4ec9913f5d3a75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\961058725fb8968baa4ec9913f5d3a75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e322eb00111465472cd34667b7d7e84d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e322eb00111465472cd34667b7d7e84d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b0d718f843778470e17ce4e873ab8e9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b0d718f843778470e17ce4e873ab8e9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\73afbbdf2c2db92463730b7f98b1cb6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\73afbbdf2c2db92463730b7f98b1cb6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4a6597c043e3e1fff91b79bbed3d6822\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4a6597c043e3e1fff91b79bbed3d6822\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c1f44275bb7cd540dbfee41266db0ec6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c1f44275bb7cd540dbfee41266db0ec6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b756c503d908df152b9da387fc9ac89e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b756c503d908df152b9da387fc9ac89e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e50e9472bc2aa1d8e3380b2975c662e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e50e9472bc2aa1d8e3380b2975c662e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f78076217e638a814e5d910896832f25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f78076217e638a814e5d910896832f25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d4af6bd28da1d37456736e9698dacf80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d4af6bd28da1d37456736e9698dacf80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\66d39f913744bb096bf37911a312664d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\66d39f913744bb096bf37911a312664d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5ec92853126b4fa1c547ac2dba7efe1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5ec92853126b4fa1c547ac2dba7efe1d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7c83e62de85d0457dba930dd484592ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7c83e62de85d0457dba930dd484592ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7dd7e9e9da60ab777b9436d4e64008f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7dd7e9e9da60ab777b9436d4e64008f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e50711be106e6223b243a2624ed16182\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e50711be106e6223b243a2624ed16182\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6daa5dbe06fda77de1d89aa35ade6c40\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sujin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6daa5dbe06fda77de1d89aa35ade6c40\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sujin\Downloads\android-ndk-master\android-ndk-master\audio-echo\app\src\main\AndroidManifest.xml
